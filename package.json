@@ -1,5 +1,5 @@
 {
-  "name": "@devine200/Tradable-SDK",
+  "name": "@devine200/BalanceModuleSDK",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/devine200"
   },
